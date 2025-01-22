@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Diesmurfss
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Software Languages on the ALX SE Program
-- 💞️ I’m looking to collaborate on tasks concerning the ALX SE Program
+- 🌱 I’m currently learning Data Science in the MIVA OPEN UNIVERSITY Data Science program
+- 💞️ I’m looking to collaborate on tasks concerning the Data Science program
 - 📫 you can reach me at marmalademarmalade40@gmail.com
 
 <!---
